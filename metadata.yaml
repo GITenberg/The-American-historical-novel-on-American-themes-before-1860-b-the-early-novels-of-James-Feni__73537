@@ -1,11 +1,16 @@
 _repo: The-American-historical-novel-on-American-themes-before-1860-b-the-early-novels-of-James-Feni__73537
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73537-h/images/cover.jpg
 creator:
   author:
     agent_name: Leisy, Ernest Erwin
     gutenberg_agent_id: '57111'
     url: http://www.gutenberg.org/2009/agents/57111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73537#The-American-historical-novel-on-American-themes-before-1860-b-the-early-novels-of-James-Feni_
 gutenberg_issued: '2024-05-04'
 gutenberg_type: Text
 identifiers:
